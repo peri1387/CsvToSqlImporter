@@ -17,7 +17,7 @@ The data pipeline follows a strict structural mapping from the data source to th
 | Price | Price | DECIMAL(10,2) | - |
 
 ## 🛠️ Tech Stack & Tools
-* **Language:** C# (.NET 8 Console Application)
+* **Language:** C# (.NET 10 Console Application)
 * **Database:** Microsoft SQL Server Express 2022
 * **Database Management:** SQL Server Management Studio (SSMS)
 * **Libraries (NuGet):** `Microsoft.Data.SqlClient`, `CsvHelper`
